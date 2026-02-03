@@ -96,7 +96,7 @@ ul {
 header {
   position: fixed;
   width: 100%;
-  z-index: 5;
+  z-index: 999;
 
 }
 header .container {
@@ -129,6 +129,7 @@ header .container nav {
 }
 header .container nav ul {
   display: flex;
+  z-index: 10000;
 }
 header .container ul li a {
   display: block;
