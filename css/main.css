@@ -142,7 +142,7 @@ header .container ul li a {
   font-size: 13px;
   transition: 0.3s;
   padding: 25px 15px;
-
+  pointer-events: auto;
 }
 header .container ul li a:hover,
 header .container ul li a.active{
@@ -189,7 +189,7 @@ header .container nav .icon i{
   }
   header .container nav .borger:hover + ul li a {
     padding: 15px;
-    pointer-events: auto;
+    
   }
 }
 /* end-header  */
