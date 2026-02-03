@@ -190,7 +190,7 @@ header .container nav .icon i{
 /* end-header  */
 /* start-landing */
 .landing {
-  background-image: url(/imge/landing.jfif);
+  background-image: url(../imge/landing.jfif);
   min-height: 100vh;
   background-size: cover;
   position: relative;
@@ -320,7 +320,7 @@ header .container nav .icon i{
 .design {
   padding-top: var(--main-padding);
   padding-bottom: var(--main-padding);
-  background-image: url(/imge/bsck.jpg);
+  background-image: url(../imge/bsck.jpg);
   background-size: cover;
   position: relative;
   height: 600px;
@@ -523,7 +523,7 @@ header .container nav .icon i{
 /* start-stat */
 .stat {
   padding: var(--main-padding) 0;
-  background-image: url(/imge/stat.png);
+  background-image: url(../imge/stat.png);
   background-size: cover;
   position: relative;
 }
@@ -711,7 +711,7 @@ header .container nav .icon i{
 /* start-qoute */
 .qoute {
   padding: var(--main-padding) 0;
-  background-image: url(/imge/quote.jpg);
+  background-image: url(../imge/quote.jpg);
   background-size: cover;
   position: relative;
   text-align: center;
@@ -849,7 +849,7 @@ header .container nav .icon i{
 /* start-subscribe */
 .subscribe {
   padding: var(--main-padding) 0;
-  background-image: url(/imge/subscribe.jpg);
+  background-image: url(../imge/subscribe.jpg);
   background-size: cover;
   position: relative;
 }
@@ -979,7 +979,7 @@ header .container nav .icon i{
 /* start-footer */
 footer {
   padding: calc( var(--main-padding) / 2)  0;
-  background-image: url(/imge/subscribe.jpg);
+  background-image: url(../imge/subscribe.jpg);
   background-size: cover;
   position: relative;
 }
